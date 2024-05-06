@@ -1,0 +1,8 @@
+../Core/Src/SVFunc.c:12:6:SAMPLES_Get	2
+../Core/Src/SVFunc.c:30:6:SAMPLES_To_Voltage	2
+../Core/Src/SVFunc.c:43:6:SAMPLES_DC_Offset_Calibration	1
+../Core/Src/SVFunc.c:55:6:SAMPLES_Sum_Buffer	2
+../Core/Src/SVFunc.c:68:6:SAMPLES_Gain_Error_Calibration	2
+../Core/Src/SVFunc.c:101:9:DC_SV_Test	7
+../Core/Src/SVFunc.c:140:9:AC_RMS_Test	3
+../Core/Src/SVFunc.c:158:6:LEDs_Blink	2
